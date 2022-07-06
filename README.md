@@ -7,3 +7,4 @@ Using Physics background as the basic rationale for the scientific method. Keen 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalhakim23&theme=dark&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalhakim23&show_icons=true&locale=en&layout=compact" alt="naufalhakim23" /></p>
