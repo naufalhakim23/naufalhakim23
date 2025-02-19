@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhakim23&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhakim23" /> </p>
 My name is Naufal Al-Hakim, I'm Indonesian and a big fan about Tensorflow anything with AI and writing all about Back-End primarily Go Language and NodeJS. <br/><br/>
 Writing all about payment disbursement (payment out) of a company, mainly all my code are in eFishery code base, since they use bitbucket and gitea, sooo there aren't any green bean here<br/>
-Learned Tensorflow from Bangkit Academy, Front-End in Ruangguru Bootcamp Academy and Back-End Golang in eFishery Aqua-Developer Program <br/><br/>
 
 Using Physics background as the basic rationale for the scientific method. Keen to learn more by experience in real-life examples and expand my knowledge by applying the knowledge accumulated.
 <br/>
