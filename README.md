@@ -1,49 +1,74 @@
-<h1 align="center">Hi 👋, I'm Naufal Al-Hakim</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+## Hi 👋, I'm Naufal Al-Hakim</h1>
+Disbursement Whisperer | Backend Chaos Coordinator | 🐹 Gopher Enthusiast | 🧠 AI Fanboy
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhakim23&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhakim23" /> </p>
-My name is Naufal Al-Hakim, I'm Indonesian and a big fan about Tensorflow anything with AI and writing all about Back-End primarily Go Language and NodeJS. <br/><br/>
-Writing all about payment disbursement (payment out) of a company, mainly all my code are in eFishery code base, since they use bitbucket and gitea, sooo there aren't any green bean here<br/>
+### Experience
+- Former Lead of transactional recalibration and asynchronous disbursement orchestration within high-throughput aquatic economic infrastructures (eFishery, but with more syllables).  
+- Pioneered the vertically scalable redundancy matrix for sub-second reconciliation pattern detection, handling annual financial throughput larger than small island nations.  
+- Executive Associate of latency annihilation and director of distributed inconsistency optimization in service of goal-oriented system idempotency and casual backend sorcery.  
+- Go microservice overlord. Once rewrote a 45s query to 0.8s out of boredom.
+- Most of my magic happens in eFishery’s codebase (Bitbucket + Gitea gang 😭), so GitHub’s green squares lie (except when I write weird stuff). I swear I write code daily.
 
-Using Physics background as the basic rationale for the scientific method. Keen to learn more by experience in real-life examples and expand my knowledge by applying the knowledge accumulated.
-<br/>
 
-<div align="center">
-</br>
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=naufalhakim23" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=naufalhakim23" height="150" alt="languages graph"  />
-<br />
+### Currently Learning
+- Structural liquidity synthesis (as it applies to payment disbursement and plant hydration)  
+- Telemetry-driven existential dread  
+- Reverse-chaotic eventual consistency  
+- gRPC-based emotional support systems  
+- Rat-based economic modeling  
+- Situational data sculpting with SQL and guilt  
+- If I write enough PromQL to summon Cthulhu, I’ll use NixOS
 
-</div>
+## 🧰 Things I Actually Know
 
-<div align="center">
+- **Languages**: Go (🐐), Python, JavaScript
+- **Databases**: PostgreSQL, Redis, MySQL (because sometimes reality needs indexing)
+- **Pubsubs**: Kafka, RabbitMQ (for sending help)
+- **Tools**: Docker, Kubernetes (containers inside containers like emotional baggage)
+- **Observ**: Prometheus, Grafana, Jaeger (observability or bust)  
+- **Frameworks**: Microservices, REST APIs, Pub/Subs, and tears
+- **ML**: AI playgrounds on Colab for when I feel like vibing with 1.5B parameters
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naufal-al-hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal-al-hakim" height="30" width="40" /></a>
-<a href="https://kaggle.com/naufalalhakim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naufalalhakim23" height="30" width="40" /></a>
-<a href="https://instagram.com/kimiskim23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufalhakim23" height="30" width="40" /></a>
-<a href="https://medium.com/@hakimnaufal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakimnaufal" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧪 Side Projects That Actually Exist (and worked)
 
-</div>
+- 🧬 [Deepseek Playground on Colab](https://github.com/naufalhakim23/deepseek-r1-playground):  
+   Just me giving Google Colab the ability to run LLMs like a pro.  
+   Plug and play with DeepSeek-R1-Distill-Qwen-1.5B like it's 2049.
 
+- 💧**Soil Moisture AI System**:  
+  ML-powered water control for cherry tomatoes. Because feeding tomatoes is more satisfying than feeding logs to ELK.
+  It worked for months, but I unplugged it because the tomato is really tall.
+
+## 📜 Certifications (to prove I’m not making this up, I have more but dunno where did I put it)
+
+- [Tensorflow Developer](https://coursera.org/verify/specialization/NY56VUFBD9ZL) by DeepLearning.AI  
+- [Google IT Automation with Python](https://coursera.org/verify/specialization/VV7NU4QSM2ZW)
+
+## ⚡ Quick Hits
+
+- 🛠 Refactored legacy code → System runs 2x faster
+- 🧩 Built payment infra → Handles 7-figure transactions monthly
+- 🔥 Reduced reconciliation time by 90%
+- 🧠 BSc in Physics → Still confused by Schrödinger’s cat
+
+---
+
+## 🤝 Let's Connect (Unless You're a Recruiter Offering “Fun Startups” That Pay in Equity)
+
+- 📬 hakimnaufal212@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/naufal-al-hakim)  
+
+---
+
+### Beliefs
+
+- All systems are distributed systems if you close your eyes  
+- If it works in prod, it’s not a bug—it’s folklore  
+- Every payment API integration is a cryptid  
+- Uptime is a state of mind  
+
+---
+
+> *"SLA is just a suggestion, unless it's payroll day."*  
+> — Naufal, backend guy with frontend emotions
